@@ -19,6 +19,7 @@ class ChattyStudent < Student
     if hi = "hello"
       true
     else
-        false
+      false
+    end
   end
 end
